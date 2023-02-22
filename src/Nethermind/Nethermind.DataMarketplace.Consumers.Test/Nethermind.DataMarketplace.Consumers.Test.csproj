@@ -23,7 +23,7 @@
         <!-- Mongo2Go dependency, safe version -->
         <PackageReference Include="SharpCompress" Version="0.31.0" />
         <!-- Mongo2Go dependency, safe version -->
-        <PackageReference Include="MongoDB.Driver" Version="2.15.1" />
+        <PackageReference Include="MongoDB.Driver" Version="2.19.0" />
         <PackageReference Include="NSubstitute" Version="4.3.0" />
         <PackageReference Include="NUnit" Version="3.13.3" />
         <PackageReference Include="NUnit3TestAdapter" Version="4.2.1" />
