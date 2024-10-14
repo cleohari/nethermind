@@ -6,7 +6,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="AspNetCore.HealthChecks.UI.InMemory.Storage" Version="6.0.4" />
+      <PackageReference Include="AspNetCore.HealthChecks.UI.InMemory.Storage" Version="7.0.0" />
       <ProjectReference Include="..\Nethermind.Api\Nethermind.Api.csproj" />
       <PackageReference Include="AspNetCore.HealthChecks.UI" Version="6.0.4" />
       <PackageReference Include="AspNetCore.HealthChecks.UI.Client" Version="6.0.4" />
